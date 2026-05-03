@@ -1,5 +1,17 @@
 # @medusajs/loyalty-plugin
 
+## 2.14.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/test-utils@2.14.3
+  - @medusajs/admin-sdk@2.14.3
+  - @medusajs/cli@2.14.3
+  - @medusajs/framework@2.14.3
+  - @medusajs/icons@2.14.3
+  - @medusajs/ui@4.1.10
+
 ## 2.14.2
 
 ### Patch Changes
